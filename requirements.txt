@@ -1,0 +1,7 @@
+scikit-surprise
+pandas
+numpy
+matplotlib
+seaborn
+requests
+joblib
